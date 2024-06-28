@@ -1,0 +1,48 @@
+C:\Users\Ezer\Desktop\Program\MVCtestDeploy\Datalogs_onsemi\Datalogs_onsemi\bin\Debug\net8.0\Datalogs_onsemi.exe
+C:\Users\Ezer\Desktop\Program\MVCtestDeploy\Datalogs_onsemi\Datalogs_onsemi\bin\Debug\net8.0\Datalogs_onsemi.deps.json
+C:\Users\Ezer\Desktop\Program\MVCtestDeploy\Datalogs_onsemi\Datalogs_onsemi\bin\Debug\net8.0\Datalogs_onsemi.runtimeconfig.json
+C:\Users\Ezer\Desktop\Program\MVCtestDeploy\Datalogs_onsemi\Datalogs_onsemi\bin\Debug\net8.0\Datalogs_onsemi.dll
+C:\Users\Ezer\Desktop\Program\MVCtestDeploy\Datalogs_onsemi\Datalogs_onsemi\bin\Debug\net8.0\Datalogs_onsemi.pdb
+C:\Users\Ezer\Desktop\Program\MVCtestDeploy\Datalogs_onsemi\Datalogs_onsemi\obj\Debug\net8.0\Datalogs_onsemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ezer\Desktop\Program\MVCtestDeploy\Datalogs_onsemi\Datalogs_onsemi\obj\Debug\net8.0\Datalogs_onsemi.AssemblyInfoInputs.cache
+C:\Users\Ezer\Desktop\Program\MVCtestDeploy\Datalogs_onsemi\Datalogs_onsemi\obj\Debug\net8.0\Datalogs_onsemi.AssemblyInfo.cs
+C:\Users\Ezer\Desktop\Program\MVCtestDeploy\Datalogs_onsemi\Datalogs_onsemi\obj\Debug\net8.0\Datalogs_onsemi.csproj.CoreCompileInputs.cache
+C:\Users\Ezer\Desktop\Program\MVCtestDeploy\Datalogs_onsemi\Datalogs_onsemi\obj\Debug\net8.0\Datalogs_onsemi.dll
+C:\Users\Ezer\Desktop\Program\MVCtestDeploy\Datalogs_onsemi\Datalogs_onsemi\obj\Debug\net8.0\refint\Datalogs_onsemi.dll
+C:\Users\Ezer\Desktop\Program\MVCtestDeploy\Datalogs_onsemi\Datalogs_onsemi\obj\Debug\net8.0\Datalogs_onsemi.pdb
+C:\Users\Ezer\Desktop\Program\MVCtestDeploy\Datalogs_onsemi\Datalogs_onsemi\obj\Debug\net8.0\Datalogs_onsemi.genruntimeconfig.cache
+C:\Users\Ezer\Desktop\Program\MVCtestDeploy\Datalogs_onsemi\Datalogs_onsemi\obj\Debug\net8.0\ref\Datalogs_onsemi.dll
+C:\Users\Ezer\Desktop\datalogs\Ondatalog\Datalogs_onsemi - Copy\Datalogs_onsemi\bin\Debug\net8.0\Datalogs_onsemi.exe
+C:\Users\Ezer\Desktop\datalogs\Ondatalog\Datalogs_onsemi - Copy\Datalogs_onsemi\bin\Debug\net8.0\Datalogs_onsemi.deps.json
+C:\Users\Ezer\Desktop\datalogs\Ondatalog\Datalogs_onsemi - Copy\Datalogs_onsemi\bin\Debug\net8.0\Datalogs_onsemi.runtimeconfig.json
+C:\Users\Ezer\Desktop\datalogs\Ondatalog\Datalogs_onsemi - Copy\Datalogs_onsemi\bin\Debug\net8.0\Datalogs_onsemi.dll
+C:\Users\Ezer\Desktop\datalogs\Ondatalog\Datalogs_onsemi - Copy\Datalogs_onsemi\bin\Debug\net8.0\Datalogs_onsemi.pdb
+C:\Users\Ezer\Desktop\datalogs\Ondatalog\Datalogs_onsemi - Copy\Datalogs_onsemi\obj\Debug\net8.0\Datalogs_onsemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ezer\Desktop\datalogs\Ondatalog\Datalogs_onsemi - Copy\Datalogs_onsemi\obj\Debug\net8.0\Datalogs_onsemi.AssemblyInfoInputs.cache
+C:\Users\Ezer\Desktop\datalogs\Ondatalog\Datalogs_onsemi - Copy\Datalogs_onsemi\obj\Debug\net8.0\Datalogs_onsemi.AssemblyInfo.cs
+C:\Users\Ezer\Desktop\datalogs\Ondatalog\Datalogs_onsemi - Copy\Datalogs_onsemi\obj\Debug\net8.0\Datalogs_onsemi.csproj.CoreCompileInputs.cache
+C:\Users\Ezer\Desktop\datalogs\Ondatalog\Datalogs_onsemi - Copy\Datalogs_onsemi\obj\Debug\net8.0\Datalogs_onsemi.dll
+C:\Users\Ezer\Desktop\datalogs\Ondatalog\Datalogs_onsemi - Copy\Datalogs_onsemi\obj\Debug\net8.0\refint\Datalogs_onsemi.dll
+C:\Users\Ezer\Desktop\datalogs\Ondatalog\Datalogs_onsemi - Copy\Datalogs_onsemi\obj\Debug\net8.0\Datalogs_onsemi.pdb
+C:\Users\Ezer\Desktop\datalogs\Ondatalog\Datalogs_onsemi - Copy\Datalogs_onsemi\obj\Debug\net8.0\Datalogs_onsemi.genruntimeconfig.cache
+C:\Users\Ezer\Desktop\datalogs\Ondatalog\Datalogs_onsemi - Copy\Datalogs_onsemi\obj\Debug\net8.0\ref\Datalogs_onsemi.dll
+C:\Users\Ezer\Desktop\datalogs\Ondatalog\Datalogs_onsemi - Copy\Datalogs_onsemi\bin\Debug\net8.0\Renci.SshNet.dll
+C:\Users\Ezer\Desktop\datalogs\Ondatalog\Datalogs_onsemi - Copy\Datalogs_onsemi\obj\Debug\net8.0\Datalogs_onsemi.csproj.AssemblyReference.cache
+C:\Users\Ezer\Desktop\datalogs\Ondatalog\Datalogs_onsemi - Copy\Datalogs_onsemi\obj\Debug\net8.0\Datalogs.5AA93051.Up2Date
+C:\Users\Ezer\Desktop\datalogs\Ondatalog\ETS Datalogs_onsemi - Copy\Datalogs_onsemi\bin\Debug\net8.0\Datalogs_onsemi.exe
+C:\Users\Ezer\Desktop\datalogs\Ondatalog\ETS Datalogs_onsemi - Copy\Datalogs_onsemi\bin\Debug\net8.0\Datalogs_onsemi.deps.json
+C:\Users\Ezer\Desktop\datalogs\Ondatalog\ETS Datalogs_onsemi - Copy\Datalogs_onsemi\bin\Debug\net8.0\Datalogs_onsemi.runtimeconfig.json
+C:\Users\Ezer\Desktop\datalogs\Ondatalog\ETS Datalogs_onsemi - Copy\Datalogs_onsemi\bin\Debug\net8.0\Datalogs_onsemi.dll
+C:\Users\Ezer\Desktop\datalogs\Ondatalog\ETS Datalogs_onsemi - Copy\Datalogs_onsemi\bin\Debug\net8.0\Datalogs_onsemi.pdb
+C:\Users\Ezer\Desktop\datalogs\Ondatalog\ETS Datalogs_onsemi - Copy\Datalogs_onsemi\bin\Debug\net8.0\Renci.SshNet.dll
+C:\Users\Ezer\Desktop\datalogs\Ondatalog\ETS Datalogs_onsemi - Copy\Datalogs_onsemi\obj\Debug\net8.0\Datalogs_onsemi.csproj.AssemblyReference.cache
+C:\Users\Ezer\Desktop\datalogs\Ondatalog\ETS Datalogs_onsemi - Copy\Datalogs_onsemi\obj\Debug\net8.0\Datalogs_onsemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ezer\Desktop\datalogs\Ondatalog\ETS Datalogs_onsemi - Copy\Datalogs_onsemi\obj\Debug\net8.0\Datalogs_onsemi.AssemblyInfoInputs.cache
+C:\Users\Ezer\Desktop\datalogs\Ondatalog\ETS Datalogs_onsemi - Copy\Datalogs_onsemi\obj\Debug\net8.0\Datalogs_onsemi.AssemblyInfo.cs
+C:\Users\Ezer\Desktop\datalogs\Ondatalog\ETS Datalogs_onsemi - Copy\Datalogs_onsemi\obj\Debug\net8.0\Datalogs_onsemi.csproj.CoreCompileInputs.cache
+C:\Users\Ezer\Desktop\datalogs\Ondatalog\ETS Datalogs_onsemi - Copy\Datalogs_onsemi\obj\Debug\net8.0\Datalogs.5AA93051.Up2Date
+C:\Users\Ezer\Desktop\datalogs\Ondatalog\ETS Datalogs_onsemi - Copy\Datalogs_onsemi\obj\Debug\net8.0\Datalogs_onsemi.dll
+C:\Users\Ezer\Desktop\datalogs\Ondatalog\ETS Datalogs_onsemi - Copy\Datalogs_onsemi\obj\Debug\net8.0\refint\Datalogs_onsemi.dll
+C:\Users\Ezer\Desktop\datalogs\Ondatalog\ETS Datalogs_onsemi - Copy\Datalogs_onsemi\obj\Debug\net8.0\Datalogs_onsemi.pdb
+C:\Users\Ezer\Desktop\datalogs\Ondatalog\ETS Datalogs_onsemi - Copy\Datalogs_onsemi\obj\Debug\net8.0\Datalogs_onsemi.genruntimeconfig.cache
+C:\Users\Ezer\Desktop\datalogs\Ondatalog\ETS Datalogs_onsemi - Copy\Datalogs_onsemi\obj\Debug\net8.0\ref\Datalogs_onsemi.dll

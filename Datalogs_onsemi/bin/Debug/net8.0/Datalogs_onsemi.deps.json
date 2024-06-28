@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Datalogs_onsemi/1.0.0": {
+        "dependencies": {
+          "SSH.NET": "2024.0.0"
+        },
+        "runtime": {
+          "Datalogs_onsemi.dll": {}
+        }
+      },
+      "SSH.NET/2024.0.0": {
+        "runtime": {
+          "lib/net8.0/Renci.SshNet.dll": {
+            "assemblyVersion": "2024.0.0.0",
+            "fileVersion": "2024.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Datalogs_onsemi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SSH.NET/2024.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-klFPBbrGtFY9V8kbh5PQwlexj7Z8fwbpwABvLX0QzCmzW06rkLknEeM1l6np2hkUfg5an5w/GzHUhWTHN1TJpA==",
+      "path": "ssh.net/2024.0.0",
+      "hashPath": "ssh.net.2024.0.0.nupkg.sha512"
+    }
+  }
+}

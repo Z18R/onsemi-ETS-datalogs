@@ -1,0 +1,121 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "SSH.NET/2024.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Renci.SshNet.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Renci.SshNet.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SSH.NET/2024.0.0": {
+      "sha512": "klFPBbrGtFY9V8kbh5PQwlexj7Z8fwbpwABvLX0QzCmzW06rkLknEeM1l6np2hkUfg5an5w/GzHUhWTHN1TJpA==",
+      "type": "package",
+      "path": "ssh.net/2024.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "SS-NET-icon-h500.png",
+        "lib/net462/Renci.SshNet.dll",
+        "lib/net462/Renci.SshNet.xml",
+        "lib/net6.0/Renci.SshNet.dll",
+        "lib/net6.0/Renci.SshNet.xml",
+        "lib/net7.0/Renci.SshNet.dll",
+        "lib/net7.0/Renci.SshNet.xml",
+        "lib/net8.0/Renci.SshNet.dll",
+        "lib/net8.0/Renci.SshNet.xml",
+        "lib/netstandard2.0/Renci.SshNet.dll",
+        "lib/netstandard2.0/Renci.SshNet.xml",
+        "lib/netstandard2.1/Renci.SshNet.dll",
+        "lib/netstandard2.1/Renci.SshNet.xml",
+        "ssh.net.2024.0.0.nupkg.sha512",
+        "ssh.net.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "SSH.NET >= 2024.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Ezer\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Ezer\\Desktop\\Program\\Datalogs\\ETS Datalogs Program\\Datalogs_onsemi\\Datalogs_onsemi.csproj",
+      "projectName": "Datalogs_onsemi",
+      "projectPath": "C:\\Users\\Ezer\\Desktop\\Program\\Datalogs\\ETS Datalogs Program\\Datalogs_onsemi\\Datalogs_onsemi.csproj",
+      "packagesPath": "C:\\Users\\Ezer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ezer\\Desktop\\Program\\Datalogs\\ETS Datalogs Program\\Datalogs_onsemi\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Ezer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "SSH.NET": {
+            "target": "Package",
+            "version": "[2024.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
