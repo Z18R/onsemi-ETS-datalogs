@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Datalogs_onsemi
-build_property.ProjectDir = C:\Users\Ezer\Desktop\Program\Datalogs\ETS Datalogs Program\Datalogs_onsemi\
+build_property.ProjectDir = C:\Users\Ezer\Desktop\ASL datalogs\onsemi-ETS-datalogs\Datalogs_onsemi\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

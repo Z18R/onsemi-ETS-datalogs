@@ -11,6 +11,7 @@ namespace FileMover
     {
         static void Main(string[] args)
         {
+            // Define source and destination directories
             string ets1SourceDir = @"C:\Users\Ezer\Desktop\datalogs\Ondatalog\ETS Folder\ETS\ETS#1";
             string ets2SourceDir = @"C:\Users\Ezer\Desktop\datalogs\Ondatalog\ETS Folder\ETS\ETS#2";
             string backupDir = @"C:\Users\Ezer\Desktop\datalogs\Ondatalog\ETS Folder\ETS backup 1";
@@ -39,16 +40,17 @@ namespace FileMover
 
         static void ProcessSourceDirectory(string sourceDir, string backupDir, string backupDir2, string zipDir, string sftpHost, string sftpUser, string sftpPassword, string sftpRemoteDir, HashSet<string> transferredFiles, bool isETS1)
         {
-
+            // Ensure the source directory exists
             if (Directory.Exists(sourceDir))
             {
-
+                // Get all files recursively in the source directory
                 var files = Directory.GetFiles(sourceDir, "*.*", SearchOption.AllDirectories);
 
                 foreach (var file in files)
                 {
                     try
                     {
+                        // Extract the file name
                         var fileName = Path.GetFileName(file);
 
                         // Extract the device and lot number
@@ -61,7 +63,6 @@ namespace FileMover
 
                         if (!string.IsNullOrEmpty(deviceLotNumber))
                         {
-  
                             string newDir = Path.Combine(backupDir, deviceLotNumber);
 
                             if (!Directory.Exists(newDir))
@@ -88,8 +89,15 @@ namespace FileMover
                 {
                     var filesInDir = Directory.GetFiles(dir);
                     var groupedFiles = filesInDir
-                        .Where(f => (f.Contains("_P1_") && f.EndsWith(".std_1")) || (f.Contains("_P1_") && f.EndsWith("SUMMARY_REPORT.txt")))
-                        .GroupBy(f => Path.GetFileNameWithoutExtension(f).Split('_')[0] + "_" + Path.GetFileNameWithoutExtension(f).Split('_')[isETS1 ? 3 : 1]);
+                        .Where(f => (f.EndsWith(".std_1") || f.EndsWith("SUMMARY_REPORT.txt")) &&
+                                    (f.Contains("_P1_") || f.Contains("_P2_") || f.Contains("_P3_") ||
+                                     f.Contains("_R1_") || f.Contains("_R2_") || f.Contains("_R3_") ||
+                                     f.Contains("_QA_") || f.Contains("_Q1_") || f.Contains("_Q2_") || f.Contains("_Q3_")))
+                        .GroupBy(f =>
+                        {
+                            var parts = Path.GetFileNameWithoutExtension(f).Split('_');
+                            return string.Join("_", parts.Take(parts.Length - 3)); // Group by device, lot number, and first identifier parts
+                        });
 
                     foreach (var group in groupedFiles)
                     {
@@ -162,6 +170,8 @@ namespace FileMover
                         }
                     }
                 }
+
+                // Remove original files after processing
                 foreach (var file in files)
                 {
                     try

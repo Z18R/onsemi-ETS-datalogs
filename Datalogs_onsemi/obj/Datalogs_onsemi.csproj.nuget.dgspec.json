@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ezer\\Desktop\\Program\\Datalogs\\ETS Datalogs Program\\Datalogs_onsemi\\Datalogs_onsemi.csproj": {}
+    "C:\\Users\\Ezer\\Desktop\\ASL datalogs\\onsemi-ETS-datalogs\\Datalogs_onsemi\\Datalogs_onsemi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ezer\\Desktop\\Program\\Datalogs\\ETS Datalogs Program\\Datalogs_onsemi\\Datalogs_onsemi.csproj": {
+    "C:\\Users\\Ezer\\Desktop\\ASL datalogs\\onsemi-ETS-datalogs\\Datalogs_onsemi\\Datalogs_onsemi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ezer\\Desktop\\Program\\Datalogs\\ETS Datalogs Program\\Datalogs_onsemi\\Datalogs_onsemi.csproj",
+        "projectUniqueName": "C:\\Users\\Ezer\\Desktop\\ASL datalogs\\onsemi-ETS-datalogs\\Datalogs_onsemi\\Datalogs_onsemi.csproj",
         "projectName": "Datalogs_onsemi",
-        "projectPath": "C:\\Users\\Ezer\\Desktop\\Program\\Datalogs\\ETS Datalogs Program\\Datalogs_onsemi\\Datalogs_onsemi.csproj",
+        "projectPath": "C:\\Users\\Ezer\\Desktop\\ASL datalogs\\onsemi-ETS-datalogs\\Datalogs_onsemi\\Datalogs_onsemi.csproj",
         "packagesPath": "C:\\Users\\Ezer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ezer\\Desktop\\Program\\Datalogs\\ETS Datalogs Program\\Datalogs_onsemi\\obj\\",
+        "outputPath": "C:\\Users\\Ezer\\Desktop\\ASL datalogs\\onsemi-ETS-datalogs\\Datalogs_onsemi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ezer\\AppData\\Roaming\\NuGet\\NuGet.Config",

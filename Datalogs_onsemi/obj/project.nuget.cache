@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3kyii2YNOfZQI2FFAhnyyGH3lIxCvF7D9yLgJXzjZcsX55PQNC+LAoS5YBPd2kv3CGm03U/3fx6XmLT78wX/zA==",
+  "dgSpecHash": "lMDzuyzxPZBk09QUD+IA8BaIf5zdqS+QJHrMfscTPzJFC7Czc/LmzqqlWTPRE0w5M5bUf8Uxt6ojlrk9VztmMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ezer\\Desktop\\Program\\Datalogs\\ETS Datalogs Program\\Datalogs_onsemi\\Datalogs_onsemi.csproj",
+  "projectFilePath": "C:\\Users\\Ezer\\Desktop\\ASL datalogs\\onsemi-ETS-datalogs\\Datalogs_onsemi\\Datalogs_onsemi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ezer\\.nuget\\packages\\ssh.net\\2024.0.0\\ssh.net.2024.0.0.nupkg.sha512"
   ],

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Datalogs_onsemi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a049ad6d16c0797656d230c1e07d54188ef77935")]
 [assembly: System.Reflection.AssemblyProductAttribute("Datalogs_onsemi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Datalogs_onsemi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

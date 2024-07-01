@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ezer\\Desktop\\Program\\Datalogs\\ETS Datalogs Program\\",
+  "WorkspaceRootPath": "C:\\Users\\Ezer\\Desktop\\ASL datalogs\\onsemi-ETS-datalogs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FDA4B8B0-CC1B-4AE3-9AC9-5CF66F6DE292}|Datalogs_onsemi\\Datalogs_onsemi.csproj|c:\\users\\ezer\\desktop\\program\\datalogs\\ets datalogs program\\datalogs_onsemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FDA4B8B0-CC1B-4AE3-9AC9-5CF66F6DE292}|Datalogs_onsemi\\Datalogs_onsemi.csproj|c:\\users\\ezer\\desktop\\asl datalogs\\onsemi-ets-datalogs\\datalogs_onsemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDA4B8B0-CC1B-4AE3-9AC9-5CF66F6DE292}|Datalogs_onsemi\\Datalogs_onsemi.csproj|solutionrelative:datalogs_onsemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ezer\\Desktop\\Program\\Datalogs\\ETS Datalogs Program\\Datalogs_onsemi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ezer\\Desktop\\ASL datalogs\\onsemi-ETS-datalogs\\Datalogs_onsemi\\Program.cs",
               "RelativeDocumentMoniker": "Datalogs_onsemi\\Program.cs",
-              "ToolTip": "C:\\Users\\Ezer\\Desktop\\Program\\Datalogs\\ETS Datalogs Program\\Datalogs_onsemi\\Program.cs",
+              "ToolTip": "C:\\Users\\Ezer\\Desktop\\ASL datalogs\\onsemi-ETS-datalogs\\Datalogs_onsemi\\Program.cs",
               "RelativeToolTip": "Datalogs_onsemi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAK8AAAARAAAA",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAKwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-18T15:39:12.437Z",
               "EditorCaption": ""
